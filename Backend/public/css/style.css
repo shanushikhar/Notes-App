@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-weight: bold;
+    color: red;
+    font-size: 5rem;
+}
